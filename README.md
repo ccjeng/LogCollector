@@ -15,4 +15,4 @@ server configuration file: \conf\server.csv
 
 ## Server configuration file
 - Location: \conf\server.csv
-- Format: <server name>, <the full path of server log folder>
+- Format: server name, the full path of server log folder
